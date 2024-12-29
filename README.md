@@ -9,7 +9,6 @@
  - Ensured data integrity by implementing filters, refining data types, and enhancing geographic roles.
  - Developed key calculated fields for comprehensive business performance analysis.
  - Conducted in-depth analysis to identify customer loyalty program registrations and optimize store performance, empowering leading brands to drive measurable business impact and strategic decision-making
- - 
 ![image](https://github.com/user-attachments/assets/5efdb8b6-e810-4ecc-a0b0-568ba8b31686)
 
 2. Australian Wine Company Dashboard: (https://public.tableau.com/app/profile/sujan.sawant/viz/AustraliasWineCompanyInsightDashboardS/Dashboard1)
