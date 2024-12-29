@@ -16,7 +16,6 @@
  - Analysis of revenue by sub-segment, providing insights into product performance.
  - Identification of top customers based on order quantity and revenue.
  - Visualization of revenue distribution by state, highlighting geographical sales trends.
- - 
 ![image](https://github.com/user-attachments/assets/a21ed487-bec9-491a-bcec-a7cb3a4d0720)
 
 
@@ -28,7 +27,6 @@
  - Geographic distribution of employees by state.
  - Employee distribution based on specific locations.
  - Insight into age distribution among employees.
- - 
 ![image](https://github.com/user-attachments/assets/b6491baf-0847-41d3-bf7c-e9088ca35308)
 
 4. Netflix Insights Dashboard: (https://public.tableau.com/app/profile/sujan.sawant/viz/NetflixInsightDashboardS/Dashboard1)
@@ -37,7 +35,6 @@
  - Visualization of the number of movies by rating.
  - Analysis of the distribution of TV shows based on the number of seasons.
  - Insight into the distribution of titles by rating.
- - 
 ![image](https://github.com/user-attachments/assets/a1625a83-ce92-44d2-a83a-a60845827f5a)
 
 5. Superstore Category Dashboard: (https://public.tableau.com/app/profile/sujan.sawant/viz/Superstore-CategoryInsightDashboardS/Superstore-)
@@ -45,7 +42,6 @@
  - Detailed product analysis by sales, profit, and quantity, focusing on top performing items.
  - Examination of sub-categories within each category for deeper insights.
  - Setting targets for sub-segments to align with business objectives and strategies.
- - 
 ![image](https://github.com/user-attachments/assets/9bb849eb-bd02-4691-9c69-0948e55b138f)
  
 
