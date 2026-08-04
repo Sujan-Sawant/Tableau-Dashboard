@@ -2,7 +2,8 @@
 - *Developed and showcased comprehensive dashboards using Tableau, highlighting key business metrics and insights.*
 - *Visualized and translated complex data into actionable, easy-to-understand visualizations, supporting informed decision-making and strategic planning.*
 
-
+- Zomato Executive Dashboard
+- https://github.com/Sujan-Sawant/Zomato-PowerBI-Executive-Dashboard/blob/main/README.md
 
 1. Superstore Dashboard: (https://public.tableau.com/app/profile/sujan.sawant/viz/SuperstoreDashboardS/Dashboard1)
  - Created a Tableau Public dashboard project for an AI and analytics company data, utilizing data cleaning initiatives and the creation of strategic fields in Tableau.
